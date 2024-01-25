@@ -1,6 +1,6 @@
 from decimal import Decimal
 import math
-from currencies import currencies
+from .currencies import currencies,Currency
 
 # Group Levels: 987,654,321.234
 # 234 : Group Level -1
