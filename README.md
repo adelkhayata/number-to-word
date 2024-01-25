@@ -22,7 +22,7 @@ pip install number-to-word
 Here's a simple example of how to use number-to-word:
 
 ```python
-from number_to_word import NumberToWord
+from numbertoword import NumberToWord
 
 # Convert a number to words in English
 print(NumberToWord.to_word(123.5, 'SYP', "English"))  # Output: One Hundred Twenty Three Syrian Pounds and Fifty Piasters only.
