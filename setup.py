@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='number-to-word',
-    version='0.1',
+    version='1.0',
     packages=find_packages(),
     description='number-to-word is a Python library for converting numbers into their written English or Arabic word equivalents.',
     long_description=open('README.md').read(),
